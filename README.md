@@ -69,18 +69,6 @@ I'm currently growing my Python and machine-learning skills while exploring diff
 
 A little collection of things I've built, explored, and learned from.
 
-| Project | What it's about |
-|:--|:--|
-| **SMS Spam Classification** | SMS spam detection using TF-IDF and Linear Support Vector Classification. |
-| **FlyRank ML** | Machine-learning experiments involving random and client-group data splitting. |
-| **DigiNote** | A web-based note marketplace built with Node.js, Express, and MongoDB. |
-| **ArtBlossoms** | A full-stack art marketplace developed using Flask and MySQL. |
-| **Traffic Management System** | An IoT-oriented traffic management and safety simulation using Cisco Packet Tracer. |
-| **PuuPark** | A smart parking companion application prototype built with MIT App Inventor. |
-| **TripShare Calculator** | A mobile application prototype for estimating and splitting travel expenses. |
-
-More experiments and projects can be found in my repositories.
-
 ### 🎓 Education
 
 **B.Sc. in Information & Communication Engineering**  
@@ -96,11 +84,6 @@ BAF Shaheen College Kurmitola
 ### 🌱 Beyond Coding
 
 I enjoy being part of academic and technology communities, collaborating with others, and learning about emerging technologies.
-
-**IEEE BUP Student Branch**  
-Vice Chairperson (Activity) · Executive Panel 2026
-
-I believe that university is not only about coursework. It's also about exploring, participating, making mistakes, and discovering what you're capable of building.
 
 ### 🎀 GitHub Corner
 
