@@ -65,10 +65,6 @@ I'm currently growing my Python and machine-learning skills while exploring diff
   <img src="https://img.shields.io/badge/MIT_App_Inventor-FCE4EC?style=flat-square&logo=android&logoColor=8C5364" />
 </p>
 
-### 🌷 Selected Projects
-
-A little collection of things I've built, explored, and learned from.
-
 ### 🎓 Education
 
 **B.Sc. in Information & Communication Engineering**  
